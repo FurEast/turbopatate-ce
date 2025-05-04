@@ -16,6 +16,7 @@ The [installation guide](https://github.com/FurEast/turbopatate-ce/wiki/Installa
 - [Hotel Information/Booking Link]()
 - [NFC Badges]()
 - Cash-less System (Coming soon)
+
 *These modules will be made public shortly.*
 
 Modules installation guide is available on our wiki.
