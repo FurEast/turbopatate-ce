@@ -1,6 +1,6 @@
 # 🥔 TurboPatate Commmunity Edition
 A free, open-source and modular ticketing system, designed for Furry conventions.  
-The first version of TurboPatate-CE will be release soon.
+The first version of TurboPatate-CE will be released soon.
 
 ## Features
 - ✨ User-friendly interface
